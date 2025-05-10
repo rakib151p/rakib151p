@@ -6,10 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib151p" alt="rakib151p" /></a> </p>
 
 - 📫 How to reach me **rakib151p@gmail.com**
-- 
-### 📄 Download My Resume
 
-[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=github)](https://github.com/rakib151p/rakib151p/raw/main/resume.pdf)
+### 📄 Download My Resume
+[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/uc?export=download&id=10jCLPqdmANwcRPfYCO9-NAO2K9ZkbIt0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
